@@ -1,4 +1,4 @@
-# Scrum-zaplanuj-jedzonko
+# Scrum-Meal-planning-app
 ### Group project - purpose:
 1. Get to know **Scrum methodology**
 2. Practice using **Git** and **GitFlow**
