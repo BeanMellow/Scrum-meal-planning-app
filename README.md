@@ -6,5 +6,5 @@
 Preview:
 https://beanmellow.github.io/Scrum-meal-planning-app/
 
-### The code itself is not finished. We've decided to start over in React. Work in progress here:
+## The code itself is not finished. We've decided to start over in React. Work in progress here:
 https://github.com/BeanMellow/react-meal-planning-app
